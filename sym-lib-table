@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "maburnet")(type "KiCad")(uri "${KIPRJMOD}/maburnet.kicad_sym")(options "")(descr ""))
+)
