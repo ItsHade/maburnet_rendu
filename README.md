@@ -22,21 +22,21 @@
 |GND         |   GND |
 |GND         |   GND |
 |5V          |   VCC |
-|TX          |   PD1 |
-|RX          |   PD0 |
+|TX          |   PD1 (TXO) |
+|RX          |   PD0 (RXI) |
 |DTR         |   PC6 |
 |[J2]        |       |
 |+           |   VCC |
 |-           |   GND |
-|RST         |   PC6 |
+|RST         |   PC6 (RESET) |
 |5V          |   VCC |
 |A3          |   PC3 |
 |A2          |   PC2 |
 |A1          |   PC1 |
 |A0          |   PC0 |
-|D13         |   PB5 |
-|D12         |   PB4 |
-|D11         |   PB3 |
+|D13         |   PB5 (SCK) |
+|D12         |   PB4 (MISO) |
+|D11         |   PB3 (MOSI) |
 |D10         |   PB2 |
 |[J1]        |       |
 |D9          |   PB1 |
